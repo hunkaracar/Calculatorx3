@@ -1,0 +1,11 @@
+C:\Users\Hünkar\C#Project\CalcuulatorX3\CalcuulatorX3\bin\Debug\CalcuulatorX3.exe.config
+C:\Users\Hünkar\C#Project\CalcuulatorX3\CalcuulatorX3\bin\Debug\CalcuulatorX3.exe
+C:\Users\Hünkar\C#Project\CalcuulatorX3\CalcuulatorX3\bin\Debug\CalcuulatorX3.pdb
+C:\Users\Hünkar\C#Project\CalcuulatorX3\CalcuulatorX3\obj\Debug\CalcuulatorX3.csproj.AssemblyReference.cache
+C:\Users\Hünkar\C#Project\CalcuulatorX3\CalcuulatorX3\obj\Debug\CalcuulatorX3.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hünkar\C#Project\CalcuulatorX3\CalcuulatorX3\obj\Debug\CalcuulatorX3.Form1.resources
+C:\Users\Hünkar\C#Project\CalcuulatorX3\CalcuulatorX3\obj\Debug\CalcuulatorX3.Properties.Resources.resources
+C:\Users\Hünkar\C#Project\CalcuulatorX3\CalcuulatorX3\obj\Debug\CalcuulatorX3.csproj.GenerateResource.cache
+C:\Users\Hünkar\C#Project\CalcuulatorX3\CalcuulatorX3\obj\Debug\CalcuulatorX3.csproj.CoreCompileInputs.cache
+C:\Users\Hünkar\C#Project\CalcuulatorX3\CalcuulatorX3\obj\Debug\CalcuulatorX3.exe
+C:\Users\Hünkar\C#Project\CalcuulatorX3\CalcuulatorX3\obj\Debug\CalcuulatorX3.pdb
